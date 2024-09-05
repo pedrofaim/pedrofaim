@@ -46,5 +46,8 @@ O arquivo CSS aplica a estilização para as páginas HTML. Inclui:
    git clone <URL_DO_REPOSITÓRIO>
 
 
-   ### Autores:
-   Pedro faim
+  
+### Autores: 
+    ## Pedro Henrique Faim dos Santos RM557440
+    ## Pedro Henrique Faim dos Santos RM557440
+    ## Pedro Henrique Faim dos Santos RM557440
