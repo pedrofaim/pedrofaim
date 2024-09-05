@@ -48,6 +48,7 @@ O arquivo CSS aplica a estilização para as páginas HTML. Inclui:
 
   
 ### Autores: 
-  -** Pedro Henrique Faim dos Santos RM557440 
-    ## Pedro Henrique Faim dos Santos RM557440
-    ## Pedro Henrique Faim dos Santos RM557440
+  -Pedro Henrique Faim dos Santos RM557440 
+  -Augusto Rocha Silva RM556316 
+  -Nicolas Lorenzo da Silva RM557962 
+ 
